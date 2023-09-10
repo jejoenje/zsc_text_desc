@@ -1,1 +1,1 @@
-# zsc_text_desc
+# Experiments with some zero-shot text classification
